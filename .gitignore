@@ -1,0 +1,53 @@
+# summary statistics files
+sum_stats_data/*/*
+
+# target data files
+target_data/case_data/*.*
+target_data/case_data/imputed/*
+
+target_data/download_data/
+
+target_data/*.*
+
+target_data/control_data/*.*
+
+# reference data files
+reference_data/*/*
+
+# pgs_catalog_results files
+pgs_catalog_results/*/aggregated*
+pgs_catalog_results/*/PGS*
+
+# metadata files
+metadata/*
+
+!metadata/metadata_disease*
+!metadata/metadata.vn1k*
+!metadata/table_one*
+
+# R
+methods/.Rproj.user
+methods/.Rhistory
+results/.*
+
+# methods/LDpred2
+methods/LDpred2/.*
+methods/LDpred2/chr*
+methods/LDpred2/test*
+
+# results
+results/*/*
+
+!results/*/PRS.score.*.samples*.txt
+
+# logs
+methods/shaprs/console_log.txt
+
+# PRSice2
+methods/PRSice2/TOY*
+
+# hapmap3
+hapmap*
+
+
+

@@ -1,0 +1,9 @@
+[submodule "methods/PRScs"]
+	path = methods/PRScs
+	url = https://github.com/getian107/PRScs.git
+[submodule "methods/shaprs"]
+	path = methods/shaprs
+	url = https://github.com/mkelcb/shaprs.git
+[submodule "methods/PRScsx"]
+	path = methods/PRScsx
+	url = https://github.com/getian107/PRScsx.git
