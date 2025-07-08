@@ -1,7 +1,7 @@
 library(org.Hs.eg.db)
 library(readr)
 library(dplyr)
-library(tidyr)
+
 
 
 # Define base path for GTEx files
